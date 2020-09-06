@@ -30,6 +30,8 @@ gem 'react-rails'
 #install active admin
 gem 'activeadmin', github: 'gregbell/active_admin'           #1
 gem 'devise'
+gem 'devise-i18n'
+gem 'devise-i18n-views'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
